@@ -1,9 +1,10 @@
 import './App.css';
+import ExpandableCard from './components/ExpandableCard';
 
 function App() {
   return (
     <div>
-      Hello World
+      <ExpandableCard/>
     </div>
   );
 }
